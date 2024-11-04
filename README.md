@@ -5,7 +5,7 @@ No need to install any tools on your computer!
 
 Very useful for students who are forced to work from a Google Chromebook.
 
-How to use:
+## How to use
 
 1. Create a Github account
 2. Fork this repository into your own Github account
